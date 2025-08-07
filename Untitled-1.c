@@ -6,7 +6,7 @@ int main()
     Sleep(2000);
     printf("This is displayed after the delay.n");
     /* code */
-    printf("hello everyone!");
+    printf("hello 孩子!");
     return 0;
 }
 
